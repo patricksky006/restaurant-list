@@ -1,7 +1,6 @@
 # 我的餐廳清單 
 
-![photo](20230801 homework-1.png)
-
+![image](https://github.com/patricksky006/restaurant-list/blob/main/20230801%20homework-1.png)
 ---
 
 ## 介紹
