@@ -32,7 +32,7 @@ $ git clone https://github.com/patricksky006/restaurant-list.git
 ```
 進入專案資料夾:
 ```
-$ cd Restaurant-list
+$ cd restaurant-list
 ```
 安裝npm:
 ```
